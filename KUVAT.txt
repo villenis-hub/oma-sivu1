@@ -1,0 +1,22 @@
+Sivun kuvat ja ääni – lähteet ja lisenssit
+===========================================
+
+Kuvat: Unsplash (https://unsplash.com/license)
+Vapaasti käytettävissä, myös ilman kuvaajan mainintaa.
+
+images/01-etuosa.jpg     https://unsplash.com/photos/xZJ6uV5F4_k
+images/02-saleikko.jpg   https://unsplash.com/photos/5CsHwC0AuJs
+images/03-vanne.jpg      https://unsplash.com/photos/E22bjiiRReo
+images/04-tunneli.jpg    https://unsplash.com/photos/qfniR1cYiOI
+images/05-metsa.jpg      https://unsplash.com/photos/m7RJIEI465g
+images/06-sisatilat.jpg  https://unsplash.com/photos/2ErheOW9pek
+images/07-ajovalo.jpg    https://unsplash.com/photos/2o_rxu8morY
+images/08-vari.jpg       https://unsplash.com/photos/5zxeQ6lXecM  (rajattu; värikyselyn auto)
+images/08-vari-maski.png itse tehty maski edellisestä kuvasta: valkoinen = maalipinta, joka värjätään
+
+Ääni: Pixabay Content License (https://pixabay.com/service/license-summary/)
+
+audio/v8.mp3             "S63 AMG V8 Engine Revs" / freesound_community
+                         https://pixabay.com/sound-effects/city-s63-amg-v8-engine-revs-41131/
+
+Omia kuvia voi käyttää korvaamalla tiedoston samalla nimellä.
